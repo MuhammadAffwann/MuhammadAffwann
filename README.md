@@ -19,7 +19,7 @@
 
 ### 🧰 Framework & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,linux,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=arduino,mysql,postgres,sqlite,redis,git,github,vscode,idea,postman,figma,npm,linux" />
 </p>
 
 ### 🎮 Game Dev & Modding
