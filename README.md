@@ -12,17 +12,17 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Bahasa Pemrograman
+### 💻
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,html,css,bash,lua" />
 </p>
 
-### 🧰 Framework & Tools
+### 🧰 
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,mysql,postgres,sqlite,redis,git,github,vscode,idea,postman,figma,npm,linux" />
 </p>
 
-### 🎮 Game Dev & Modding
+### 🎮 
 
 **Roblox**
 
