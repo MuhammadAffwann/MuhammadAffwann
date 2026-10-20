@@ -1,6 +1,6 @@
 <div align="center">
 
-# Someone's Alter ego
+# Hai, gw Affwan
 
 ### Network Engineer 🌐 · Roblox Developer 🎮 · Web Developer · IT Support
 
