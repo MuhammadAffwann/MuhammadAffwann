@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hai, gw Affwan 👋
+# Hai, gw Affwan 
 
-### Network Engineer 🌐 · Roblox Developer 🎮 · Web Developer 
+### Network Engineer  · Roblox Developer  · Web Developer 
 
 *Dari ngulik plugin Spigot, mod Counter-Strike & Roblox Studio waktu kecil, sekarang ngulik jaringan, server, dan menuju Cloud ☁️*
 
@@ -12,17 +12,17 @@
 
 ## 🛠️ Tech Stack
 
-### 💻
+### -
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,html,css,bash,lua" />
 </p>
 
-### 🧰 
+### -
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,mysql,postgres,sqlite,redis,git,github,vscode,idea,postman,figma,npm,linux" />
 </p>
 
-### 🎮 
+### -
 
 **Roblox**
 
