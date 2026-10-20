@@ -6,14 +6,7 @@
 
 *Dari ngulik plugin Spigot & mod Counter-Strike waktu kecil, sekarang ngulik jaringan, server, dan menuju Cloud ☁️*
 
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAffwann&color=blue&style=for-the-badge)
-
 </div>
-
----
-
-
-
 
 ---
 
@@ -21,13 +14,15 @@
 
 ### Bahasa Pemrograman
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,html,css,bash,lua" />
 </p>
 
 ### Framework & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,mysql,linux,git,github,vscode" />
 </p>
+
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 
 ### Networking & Infra
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
@@ -40,6 +35,7 @@
 
 ---
 
+<div align="center">
 
 *"Always be tinkering."* ⚡
 
