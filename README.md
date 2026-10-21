@@ -14,7 +14,7 @@
 
 ### -
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,html,css,bash,lua" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,typescript,css,bash,lua" />
 </p>
 
 ### -
