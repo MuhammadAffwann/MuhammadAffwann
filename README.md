@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hai, gw Affwan 
+# Hai hehe > // <
 
-### Network Engineer  · Roblox Developer  · Web Developer 
+### 
 
-*Dari ngulik plugin Spigot, mod Counter-Strike & Roblox Studio waktu kecil, sekarang ngulik jaringan, server, dan menuju Cloud ☁️*
+*Do as you wish*
 
 </div>
 
