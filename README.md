@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## What I can do and what I have learned
 
 ### -
 <p>
